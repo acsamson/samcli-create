@@ -1,6 +1,7 @@
 # Intro
 
-yarn create-samcli 包名
+yarn global add create-samcli
+create-samcli 包名
 
 samcli 脚手架.
 
