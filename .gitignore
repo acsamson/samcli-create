@@ -1,4 +1,11 @@
 # Logs
+/node_modules
+/yarn.lock
+/dist
+package-lock.json
+.DS_Store
+coverage
+.vscode
 logs
 *.log
 npm-debug.log*
