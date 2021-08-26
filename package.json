@@ -1,6 +1,6 @@
 {
     "name": "create-samcli",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "samcli creator",
     "homepage": "https://github.com/acsamson/create-samcli",
     "bugs": {
