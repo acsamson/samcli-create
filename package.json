@@ -2,6 +2,14 @@
     "name": "create-samcli",
     "version": "0.0.1",
     "description": "samcli creator",
+    "homepage": "https://github.com/acsamson/create-samcli",
+    "bugs": {
+        "url": "https://github.com/acsamson/create-samcli/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/acsamson/create-samcli"
+    },
     "license": "MIT",
     "create-samcli": {
         "ignore": []

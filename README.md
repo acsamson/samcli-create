@@ -1,5 +1,7 @@
 # Intro
 
+yarn create-samcli 包名
+
 samcli 脚手架.
 
 如果想要修改本 package 需要进行 `yarn link`, 使用 `create-samcli 你的包名称` 即可生成你要的包
