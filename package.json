@@ -23,7 +23,6 @@
         "create-samcli": "cli.js"
     },
     "scripts": {
-        "prepublishOnly": "np --no-cleanup --yolo --no-publish",
         "test": "umi-test test/index.test.js",
         "cov": "umi-test test/index.test.js --coverage",
         "prettier": "prettier -c --write '**/*'"
