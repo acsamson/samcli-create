@@ -1,6 +1,7 @@
 # Intro
 
 yarn global add samcli-create
+
 samcli-create 包名
 
 samcli 脚手架.
