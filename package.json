@@ -1,17 +1,9 @@
 {
-    "name": "create-samcli",
-    "version": "0.1.0",
+    "name": "samcli-creat",
+    "version": "0.0.1",
     "description": "samcli creator",
-    "homepage": "https://github.com/acsamson/create-samcli",
-    "bugs": {
-        "url": "https://github.com/acsamson/create-samcli/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/acsamson/create-samcli"
-    },
     "license": "MIT",
-    "create-samcli": {
+    "samcli-creat": {
         "ignore": []
     },
     "files": [
@@ -20,7 +12,7 @@
         "lib"
     ],
     "bin": {
-        "create-samcli": "cli.js"
+        "samcli-creat": "cli.js"
     },
     "scripts": {
         "prepublishOnly": "np --no-cleanup --yolo --no-publish",
