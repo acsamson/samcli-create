@@ -1,6 +1,6 @@
 {
     "name": "@acsamson/create-samcli",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "samcli creator",
     "license": "MIT",
     "create-samcli": {
