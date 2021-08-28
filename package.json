@@ -14,6 +14,9 @@
     "bin": {
         "create-samcli": "cli.js"
     },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org"
+    },
     "scripts": {
         "prepublishOnly": "np --no-cleanup --yolo --no-publish",
         "test": "umi-test test/index.test.js",
