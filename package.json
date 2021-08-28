@@ -1,9 +1,9 @@
 {
-    "name": "samcli-creat",
-    "version": "0.0.2",
+    "name": "@acsamson/create-samcli",
+    "version": "0.1.0",
     "description": "samcli creator",
     "license": "MIT",
-    "samcli-creat": {
+    "create-samcli": {
         "ignore": []
     },
     "files": [
@@ -12,7 +12,7 @@
         "lib"
     ],
     "bin": {
-        "samcli-creat": "cli.js"
+        "create-samcli": "cli.js"
     },
     "scripts": {
         "prepublishOnly": "np --no-cleanup --yolo --no-publish",
