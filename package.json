@@ -1,9 +1,9 @@
 {
-    "name": "@acsamson/create-samcli",
-    "version": "0.1.1",
+    "name": "samcli-create",
+    "version": "0.1.0",
     "description": "samcli creator",
     "license": "MIT",
-    "create-samcli": {
+    "samcli-create": {
         "ignore": []
     },
     "files": [
@@ -12,7 +12,7 @@
         "lib"
     ],
     "bin": {
-        "create-samcli": "cli.js"
+        "samcli-create": "cli.js"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org"
