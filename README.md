@@ -1,12 +1,12 @@
 # Intro
 
-yarn global add samcli-create
+npm i -g samcli-create
 
 samcli-create 包名
 
 samcli 脚手架.
 
-如果想要修改本 package 需要进行 `yarn link`, 使用 `samcli-create 你的包名称` 即可生成你要的包
+如果想要修改本 package 需要进行 `npm link`, 使用 `samcli-create 你的包名称` 即可生成你要的包
 
 # Use
 
@@ -21,6 +21,6 @@ yarn samcli-create 包名
   JavaScript
 
 ? 💁‍♂️ 想使用哪种脚手架? (Use arrow keys)
-❯ 全栈(微前端中台 + node服务端)
 ❯ 前端中台
+❯ 全栈(微前端中台 + electron + node服务端)
 ```
