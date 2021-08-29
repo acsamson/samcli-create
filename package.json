@@ -1,6 +1,6 @@
 {
     "name": "samcli-create",
-    "version": "0.1.3",
+    "version": "0.1.2",
     "description": "samcli creator",
     "license": "MIT",
     "samcli-create": {
