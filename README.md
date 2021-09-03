@@ -11,7 +11,7 @@ samcli 脚手架.
 # Use
 
 ```
-yarn samcli-create 包名
+samcli-create 包名
 
 ? 请选择一个模板类型 (Use arrow keys)
 ❯ samcli-pro - 🎃 选择一个中台模板
